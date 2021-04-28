@@ -68,14 +68,3 @@
     </nav>
 </div>
 
-g;fdzdxjcktuygiuhoihgfuzadbrtfyguio;jihlugyftck,hupihguoyiv
-xfckyiuohgifucxfch;'LL"
-'hgvluigifkuigj'[P'
-pH/lvu.fy,ck;cvylj
-gluyvlfkvly;gh'ob;unm,'
-.';hvfcklv;/phigbm
-UHgvhnj'o/hinp
-h'hI?guylb'hI?guylbpohi
-jgv;'gbuij{j
-    gb'ugb
-    hi'
