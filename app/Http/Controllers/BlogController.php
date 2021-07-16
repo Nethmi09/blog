@@ -3,13 +3,16 @@
 namespace App\Http\Controllers;
 
 use App\Blog;
+//use Datatables;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
+// use Yajra\DataTables\Facades\DataTables;
+
+
 
 class BlogController extends Controller
 {
-    /**
-     * Display a listing of the resource.
+    /**     * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
@@ -109,6 +112,7 @@ class BlogController extends Controller
      * @param  \App\Blog  $blog
      * @return \Illuminate\Http\Response
      */
+
     public function destroy(Blog $blog)
     {
 
@@ -116,4 +120,17 @@ class BlogController extends Controller
         return redirect()->route('blogs.index');
 
     }
-}
+
+    
+
+    // public function test(){
+      
+    //     $b = User::find(1)->passport()->get('country');
+
+    //     // $b = Blog::find(2);
+
+    //     return view ('test.test1',compact('b'));
+    // }
+
+    }
+
